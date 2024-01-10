@@ -1,0 +1,58 @@
+body {
+   font-family: "Times New Roman", Georgia, Serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-family: "Playfair Display";
+   letter-spacing: 5px;
+}
+.text_banner1 {
+   color: #d5c4a0;
+   font-size: 40px;
+   position: absolute;
+   top: 192px;
+   left: 412px;
+   font-family: sans-serif;
+}
+.text_banner2 {
+   color: #d5c4a0;
+   font-size: 15px;
+   position: absolute;
+   top: 261px;
+   left: 329px;
+   font-family: sans-serif;
+}
+.line1 {
+   width: auto;
+   height: 1px;
+   background-color: #dfdddd;
+   margin-top: 554px;
+}
+.line2 {
+   width: auto;
+   height: 1px;
+   background-color: #dfdddd;
+   margin-top: 900px;
+}
+.img_text {
+   padding-top: 104px;
+}
+.img_anh2 {
+   margin-bottom: 500px;
+}
+.link_dangky {
+   color: rgb(231 169 91 / 93%);
+}
+.text_dangky1 {
+   margin-bottom: 250px;
+}
+.text_dangky2 {
+   margin-top: 70px;
+}
+.text_dangky3 {
+   margin-top: 200px;
+}
